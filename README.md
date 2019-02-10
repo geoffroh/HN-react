@@ -4,6 +4,8 @@ Based on the example app in [The Road the Learn React](https://roadtoreact.com).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed to https://still-bastion-77175.herokuapp.com/ for now but i'll probably remove it fairly soon.
+
 ## Available Scripts
 
 In the project directory, you can run:
